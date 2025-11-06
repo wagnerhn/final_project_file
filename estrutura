@@ -1,0 +1,15 @@
+stake-callings-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   └── CallingCard.jsx
+│   ├── pages/
+│   │   ├── Dashboard.jsx
+│   │   └── NewCallingForm.jsx
+│   ├── styles/
+│   │   └── main.css
+│   ├── App.jsx
+│   ├── index.js
+├── package.json
+├── README.md
